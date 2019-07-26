@@ -5997,7 +5997,7 @@ Thanks for your help!
             'Позволяет добавить сообщение на экране Ответственный в просмотре заявки в интерфейсе агента. Может быть перекрыто параметром Ticket::Frontend::NeedAccountedTime.',
         'Allows agents to exchange the axis of a stat if they generate one.' =>
             'Позволяет поменять местами оси графика в отчете.',
-        'Allows agents to generate individual-related stats.' => 'Разрешать отчёты по активным агентам.',
+        'Allows agents to generate individual-related stats.' => 'Разрешать использовать в отчётах данные агентов (отчеты по агентам).',
         'Allows choosing between showing the attachments of a ticket in the browser (inline) or just make them downloadable (attachment).' =>
             'Выбор варианта показа вложения к заявке - в окне браузера или как файл для загрузки(вложение).',
         'Allows choosing the next compose state for customer tickets in the customer interface.' =>
